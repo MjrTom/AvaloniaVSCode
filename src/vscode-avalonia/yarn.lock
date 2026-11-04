@@ -174,10 +174,10 @@
   resolved "https://registry.npmjs.org/@types/vscode-webview/-/vscode-webview-1.57.5.tgz"
   integrity sha512-iBAUYNYkz+uk1kdsq05fEcoh8gJmwT3lqqFPN7MGyjQ3HVloViMdo7ZJ8DFIP8WOK74PjOEilosqAyxV2iUFUw==
 
-"@types/vscode@^1.79.0":
-  version "1.79.1"
-  resolved "https://registry.npmjs.org/@types/vscode/-/vscode-1.79.1.tgz"
-  integrity sha512-Ikwc4YbHABzqthrWfeAvItaAIfX9mdjMWxqNgTpGjhgOu0TMRq9LzyZ2yBK0JhYqoSjEubEPawf6zJgnl6Egtw==
+"@types/vscode@^1.145.0":
+  version "1.145.0"
+  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.145.0.tgz#a5a341077ca2c3d01f146fedb67e07342b427c77"
+  integrity sha512-mADZK4SF/j1n0+Qk4bH8NT1qTQGYDAsbhb5hStbzuB3hKP3mRH7xja5yUaIm7ExCh65Ff+C9XGwxcBvSlTCvkQ==
 
 "@typescript-eslint/eslint-plugin@^5.53.0":
   version "5.60.0"
